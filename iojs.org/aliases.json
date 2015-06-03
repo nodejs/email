@@ -1,4 +1,10 @@
 [
+  { "from": "security", "to": [
+    "rod@vagg.org",
+    "r@va.gg",
+    "rvagg@nodesource.com"
+  ] },
+
   { "from": "rvagg", "to": "rod@vagg.org" },
   { "from": "jbergstroem", "to": "bugs@bergstroem.nu" }
 ]

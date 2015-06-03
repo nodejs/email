@@ -16,7 +16,10 @@ function toExpression (domain, alias) {
 
 
 function toActions (alias) {
-  return [ `forward("${alias.to}")`, `stop()` ]
+  var to = Array.isArray(alias.to) ? alias.to : [ alias.to ]
+  return to.map(function (to) {
+    return `forward("${to}")`
+  }).concat([ `stop()` ])
 }
 
 
@@ -55,7 +58,8 @@ function updateAliases (domain, creds, aliases, callback) {
     console.log(`${toRemove.length} route(s) to remove`)
 
     toAdd.forEach(function (alias) {
-      console.log(`Adding ${alias.from} -> ${alias.to}...`)
+      var to = Array.isArray(alias.to) ? alias.to : [ alias.to ]
+      console.log(`Adding ${alias.from} -> ${alias.to.join(', ')}...`)
       addRoute(domain, creds, alias.from, alias.expression, alias.actions, done)
     })
 
