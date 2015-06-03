@@ -59,7 +59,7 @@ function updateAliases (domain, creds, aliases, callback) {
 
     toAdd.forEach(function (alias) {
       var to = Array.isArray(alias.to) ? alias.to : [ alias.to ]
-      console.log(`Adding ${alias.from} -> ${alias.to.join(', ')}...`)
+      console.log(`Adding ${alias.from} -> ${to.join(', ')}...`)
       addRoute(domain, creds, alias.from, alias.expression, alias.actions, done)
     })
 
