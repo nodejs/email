@@ -1,8 +1,6 @@
 [
   { "from": "security", "to": [
-    "rod@vagg.org",
-    "r@va.gg",
-    "rvagg@nodesource.com"
+    "security@nodejs.org"
   ] },
 
   { "from": "rvagg", "to": "rod@vagg.org" },
