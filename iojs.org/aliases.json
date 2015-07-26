@@ -2,6 +2,23 @@
   { "from": "security", "to": [
     "security@nodejs.org"
   ] },
+  { "from": "tsc", "to": [
+    "info@bnoordhuis.nl",
+    "bertbelder@gmail.com",
+    "fedor.indutny@gmail.com",
+    "trev.norris@gmail.com",
+    "christopher.s.dickinson@gmail.com",
+    "rod@vagg.org",
+    "fishrock123@rocketmail.com",
+    "cjihrig@gmail.com",
+    "orangemocha@nodejs.org",
+    "jgilli@nodejs.org",
+    "jasnell@gmail.com",
+    "srloomis@us.ibm.com",
+    "michael_dawson@ca.ibm.com",
+    "ohtsu@iij.ad.jp",
+    "mscdex@mscdex.net"
+  ] },
 
   { "from": "rvagg", "to": "rod@vagg.org" },
   { "from": "jbergstroem", "to": "bugs@bergstroem.nu" }
