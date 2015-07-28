@@ -19,7 +19,9 @@
     "ohtsu@iij.ad.jp",
     "mscdex@mscdex.net"
   ] },
-
+  { "from": "accounts", "to": [
+    "rod@vagg.org"
+  ] },
   { "from": "rvagg", "to": "rod@vagg.org" },
   { "from": "jbergstroem", "to": "bugs@bergstroem.nu" }
 ]
