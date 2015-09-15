@@ -28,6 +28,9 @@
   { "from": "build", "to": [
     "rod@vagg.org"
   ] },
+  { "from": "ci", "to": [
+    "reis@janeasystems.com"
+  ] },
   { "from": "rvagg", "to": "rod@vagg.org" },
   { "from": "jbergstroem", "to": "bugs@bergstroem.nu" }
 ]
