@@ -19,7 +19,13 @@
     "ohtsu@iij.ad.jp",
     "mscdex@mscdex.net"
   ] },
+  { "from": "admin", "to": [
+    "rod@vagg.org"
+  ] },
   { "from": "accounts", "to": [
+    "rod@vagg.org"
+  ] },
+  { "from": "build", "to": [
     "rod@vagg.org"
   ] },
   { "from": "rvagg", "to": "rod@vagg.org" },
