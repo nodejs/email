@@ -30,5 +30,13 @@
     "reis@janeasystems.com"
   ] },
   { "from": "rvagg", "to": "rod@vagg.org" },
-  { "from": "jbergstroem", "to": "bugs@bergstroem.nu" }
+  { "from": "jbergstroem", "to": "bugs@bergstroem.nu" },
+  { "from": "ci-alert", "to": [
+    "rvagg@iojs.org",
+    "jbergstroem@iojs.org",
+    "reis@janeasystems.com",
+    "alexis@janeasystems.com",
+    "michael_dawson@ca.ibm.com",
+    "hans@starefossen.com"
+  ] }
 ]
