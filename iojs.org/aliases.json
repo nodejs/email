@@ -21,6 +21,7 @@
     "jasnell@gmail.com",
     "ohtsu@iij.ad.jp"
   ] },
+  { "from": "report", "to": "tsc@iojs.org" },
   { "from": "admin", "to": [
     "rod@vagg.org"
   ] },
