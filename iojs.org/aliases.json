@@ -1,4 +1,7 @@
 [
+  { "from": "report", "to": [
+    "tsc@iojs.org"
+  ]},
   { "from": "security", "to": [
     "security@nodejs.org"
   ] },
