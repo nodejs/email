@@ -1,7 +1,4 @@
 [
-  { "from": "security", "to": [
-    "security@nodejs.org"
-  ] },
   { "from": "tsc", "to": [
     "info@bnoordhuis.nl",
     "bertbelder@nodejs.org",
@@ -16,6 +13,13 @@
     "jasnell@gmail.com",
     "ohtsu@iij.ad.jp",
     "mscdex@mscdex.net"
+  ] },
+  { "from": "security", "to": [
+    "info@bnoordhuis.nl",
+    "fedor.indutny@gmail.com",
+    "rod@vagg.org",
+    "jasnell@gmail.com",
+    "ohtsu@iij.ad.jp"
   ] },
   { "from": "admin", "to": [
     "rod@vagg.org"
