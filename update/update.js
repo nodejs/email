@@ -12,7 +12,7 @@ if (process.argv.length < 3) {
   return process.exit(1)
 }
 
-const domain    = process.argv[2]
+const domain    = process.argv[2].replace(/\/$/, '')
     , dir       = path.join(__dirname, '..', domain)
     , credsFile = path.join(dir, 'credentials.json')
 
