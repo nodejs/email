@@ -23,6 +23,9 @@
   ] },
   { "from": "report", "to": [
     "tsc@iojs.org",
+    "inclusivity@iojs.org"
+  ] },
+  { "from": "inclusivity", "to": [
     "ashley666ashley@gmail.com",
     "julie.pagano@gmail.com",
     "beau@beaugunderson.com",
