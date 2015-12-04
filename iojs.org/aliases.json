@@ -1,4 +1,20 @@
 [
+  { "from": "lts", "to": [
+    "jgilli@nodejs.org",
+    "info@bnoordhuis.nl",
+    "fishrock123@rocketmail.com",
+    "wpreul@gmail.com",
+    "jasnell@gmail.com",
+    "reis@janeasystems.com",
+    "michael_dawson@ca.ibm.com",
+    "ofrobots@google.com",
+    "rod@vagg.org",
+    "ohtsu@iij.ad.jp",
+    "srloomis@us.ibm.com",
+    "myles.borins@gmail.com",
+    "trev.norris@gmail.com",
+    "kzm@sykosomatic.org"
+  ]},
   { "from": "report", "to": [
     "tsc@iojs.org"
   ]},
