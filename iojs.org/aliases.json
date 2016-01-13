@@ -14,6 +14,21 @@
     "ohtsu@iij.ad.jp",
     "mscdex@mscdex.net"
   ] },
+  { "from": "ctc", "to": [
+    "info@bnoordhuis.nl",
+    "bertbelder@nodejs.org",
+    "fedor.indutny@gmail.com",
+    "trev.norris@gmail.com",
+    "christopher.s.dickinson@gmail.com",
+    "rod@vagg.org",
+    "fishrock123@rocketmail.com",
+    "cjihrig@gmail.com",
+    "orangemocha@nodejs.org",
+    "jgilli@nodejs.org",
+    "jasnell@gmail.com",
+    "ohtsu@iij.ad.jp",
+    "mscdex@mscdex.net"
+  ] },
   { "from": "security", "to": [
     "info@bnoordhuis.nl",
     "fedor.indutny@gmail.com",
