@@ -50,7 +50,8 @@
     "rod@vagg.org"
   ] },
   { "from": "build", "to": [
-    "rod@vagg.org"
+    "rod@vagg.org",
+    "jbergstroem@iojs.org"
   ] },
   { "from": "ci", "to": [
     "reis@janeasystems.com"
@@ -59,7 +60,6 @@
   { "from": "jbergstroem", "to": "bugs@bergstroem.nu" },
   { "from": "ci-alert", "to": [
     "rvagg@iojs.org",
-    "jbergstroem@iojs.org",
     "reis@janeasystems.com",
     "alexis@janeasystems.com",
     "michael_dawson@ca.ibm.com",
