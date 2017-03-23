@@ -8,7 +8,7 @@
     "mscdex@mscdex.net",
     "bertbelder@nodejs.org",
     "rod@vagg.org",
-    "ohtsu@iij.ad.jp",
+    "ohtsu@ohtsu.org",
     "trev.norris@gmail.com",
     "bryan@nebri.us"
   ] },
@@ -26,7 +26,7 @@
     "mscdex@mscdex.net",
     "ofrobots@google.com",
     "rod@vagg.org",
-    "ohtsu@iij.ad.jp",
+    "ohtsu@ohtsu.org",
     "trev.norris@gmail.com",
     "rtrott@gmail.com",
     "myles.borins@gmail.com",
@@ -38,7 +38,7 @@
     "fedor.indutny@gmail.com",
     "rod@vagg.org",
     "jasnell@gmail.com",
-    "ohtsu@iij.ad.jp"
+    "ohtsu@ohtsu.org"
   ] },
   { "from": "report", "to": "tsc@iojs.org" },
   { "from": "admin", "to": [
