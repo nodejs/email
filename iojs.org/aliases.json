@@ -43,7 +43,8 @@
     "fedor.indutny@gmail.com",
     "rod@vagg.org",
     "jasnell@gmail.com",
-    "ohtsu@ohtsu.org"
+    "ohtsu@ohtsu.org",
+    "myles.borins@gmail.com"
   ] },
   { "from": "report", "to": "tsc@iojs.org" },
   { "from": "admin", "to": [
