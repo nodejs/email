@@ -77,5 +77,8 @@
     "hi@jennwrit.es",
     "bryan@nebri.us",
     "michael_dawson@ca.ibm.com"
+  ] },
+    { "from": "download-validation-alert", "to": [
+      "michael_dawson@ca.ibm.com"
   ] }
 ]
