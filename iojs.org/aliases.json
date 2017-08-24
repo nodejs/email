@@ -68,5 +68,8 @@
     "hi@jennwrit.es",
     "bryan@nebri.us",
     "michael_dawson@ca.ibm.com"
+  ] },
+    { "from": "release-validation-alert", "to": [
+      "michael_dawson@ca.ibm.com"
   ] }
 ]
