@@ -78,7 +78,7 @@
     "bryan@nebri.us",
     "michael_dawson@ca.ibm.com"
   ] },
-    { "from": "download-validation-alert", "to": [
+    { "from": "release-validation-alert", "to": [
       "michael_dawson@ca.ibm.com"
   ] }
 ]
