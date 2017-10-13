@@ -62,15 +62,22 @@
     "rtrott@gmail.com"
   ] },
   { "from": "admin", "to": [
+    "jbergstroem@iojs.org",
+    "michael_dawson@ca.ibm.com",
+    "reis@janeasystems.com",
     "rod@vagg.org"
   ] },
   { "from": "accounts", "to": [
+    "jbergstroem@iojs.org",
+    "michael_dawson@ca.ibm.com",
+    "reis@janeasystems.com",
     "rod@vagg.org"
   ] },
   { "from": "build", "to": [
-    "rod@vagg.org",
     "jbergstroem@iojs.org",
-    "michael_dawson@ca.ibm.com"
+    "michael_dawson@ca.ibm.com",
+    "reis@janeasystems.com",
+    "rod@vagg.org"
   ] },
   { "from": "ci", "to": [
     "reis@janeasystems.com"
