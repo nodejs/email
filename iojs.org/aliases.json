@@ -1,7 +1,6 @@
 [
   { "from": "tsc", "to": [
     "anna@addaleax.net",
-    "info@bnoordhuis.nl",
     "chalkerx@gmail.com",
     "cjihrig@gmail.com",
     "evanlucas@me.com",
@@ -13,7 +12,6 @@
     "mscdex@mscdex.net",
     "ofrobots@google.com",
     "rod@vagg.org",
-    "ohtsu@ohtsu.org",
     "trev.norris@gmail.com",
     "rtrott@gmail.com",
     "myles.borins@gmail.com",
@@ -25,7 +23,6 @@
   ] },
   { "from": "ctc", "to": [
     "anna@addaleax.net",
-    "info@bnoordhuis.nl",
     "chalkerx@gmail.com",
     "cjihrig@gmail.com",
     "evanlucas@me.com",
@@ -37,7 +34,6 @@
     "mscdex@mscdex.net",
     "ofrobots@google.com",
     "rod@vagg.org",
-    "ohtsu@ohtsu.org",
     "trev.norris@gmail.com",
     "rtrott@gmail.com",
     "myles.borins@gmail.com",
