@@ -115,5 +115,18 @@
       "gibfahn@gmail.com",
       "hello@bnb.im",
       "rtrott@gmail.com"
+  ] },
+    { "from": "cve-request", "to": [
+      "michael_dawson@ca.ibm.com",
+      "info@bnoordhuis.nl",
+      "vieuxtech@gmail.com"
+  ] },
+    { "from": "cve-mitre-contact", "to": [
+      "michael_dawson@ca.ibm.com",
+      "info@bnoordhuis.nl",
+      "vieuxtech@gmail.com"
+  ] },
+    { "from": "cna-discussion-list", "to": [
+      "michael_dawson@ca.ibm.com"
   ] }
 ]
