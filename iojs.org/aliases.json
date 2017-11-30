@@ -129,5 +129,8 @@
   ] },
     { "from": "cna-discussion-list", "to": [
       "michael_dawson@ca.ibm.com"
+  ] },
+    { "from": "security-ecosystem", "to": [
+      "nodejs-ecosystem-f6dff0c98b32758c@forwarding.hackerone.com"
   ] }
 ]
