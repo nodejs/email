@@ -20,7 +20,7 @@ nodejs.org aliases are managed by the Foundation.  In order to set one up:
 
 * create an iojs.org alias and associate the intended recipients to it.
 * email 'helpdesk@rt.linuxfoundation.org' requesting that the nodejs.org point to the alias.
-  In the email, cc our foundation contact and provide context as to why the alias is needed.
+  In the email, cc our Foundation contact and provide context as to why the alias is needed.
 
 ## License & copyright
 
