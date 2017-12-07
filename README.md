@@ -14,6 +14,14 @@ The [update](./update) directory contains a simple node program that you run and
 
 Members of the Build Working Group "Infra" team (Rod Vagg, Johan Bergström, Michael Dawson and João Reis as of writing) can access the Mailgun API key via the Rackspace API or in the `admin_logins.md` file in the secrets repo (build/infra/). This key must be placed in a file named `iojs.org/credentials.json` in the form: `{ "api-key": "key-abc..." }`.
 
+## nodejs.org email aliases
+
+nodejs.org aliases are managed by the Foundation.  In order to set one up:
+
+* create an iojs.org alias and associate the intended recipients to it.
+* email 'helpdesk@rt.linuxfoundation.org' requesting that the nodejs.org point to the alias.
+  In the email, cc our Foundation contact and provide context as to why the alias is needed.
+
 ## License & copyright
 
 The contents of this repository is Copyright (c) 2015 The Node.js Foundation and licensed under the MIT licence. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE.md file for more details.
