@@ -16,11 +16,11 @@ Members of the Build Working Group "Infra" team (Rod Vagg, Johan Bergström, Mic
 
 ## nodejs.org email aliases 
 
-nodejs.org alias are managed by the foundation.  In order to set one up:
+nodejs.org aliases are managed by the Foundation.  In order to set one up:
 
-* create an iojs.org alias and associate the indended recipients to it.
-* email 'helpdesk@rt.linuxfoundation.org' requesting that the nodejs.org point to the alias setup in step 1.
-  In the email cc our foundation contact and provide context as to why the aliase is needed.
+* create an iojs.org alias and associate the intended recipients to it.
+* email 'helpdesk@rt.linuxfoundation.org' requesting that the nodejs.org point to the alias.
+  In the email, cc our foundation contact and provide context as to why the alias is needed.
 
 ## License & copyright
 
