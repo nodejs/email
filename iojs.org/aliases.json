@@ -133,5 +133,9 @@
   ] },
     { "from": "security-ecosystem", "to": [
       "nodejs-ecosystem-f6dff0c98b32758c@forwarding.hackerone.com"
+  ] },
+    { "from": "user-feedback", "to": [
+      "michael_dawson@ca.ibm.com",
+      "dshaw@dshaw.com",
   ] }
 ]
