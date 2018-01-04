@@ -58,7 +58,8 @@
     "refack@gmail.com",
     "gibfahn@gmail.com",
     "hello@bnb.im",
-    "rtrott@gmail.com"
+    "rtrott@gmail.com",
+    "thechargingvolcano@gmail.com"
   ] },
   { "from": "admin", "to": [
     "jbergstroem@iojs.org",
@@ -114,7 +115,8 @@
       "refack@gmail.com",
       "gibfahn@gmail.com",
       "hello@bnb.im",
-      "rtrott@gmail.com"
+      "rtrott@gmail.com",
+      "thechargingvolcano@gmail.com"
   ] },
     { "from": "cve-request", "to": [
       "michael_dawson@ca.ibm.com",
