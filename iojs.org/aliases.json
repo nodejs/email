@@ -1,5 +1,7 @@
 [
-  { "from": "tsc", "to": [
+  { "from": "tsc",
+    "description": "All members of @nodejs/TSC",
+    "to": [
     "anna@addaleax.net",
     "chalkerx@gmail.com",
     "cjihrig@gmail.com",
@@ -20,7 +22,9 @@
     "thechargingvolcano@gmail.com",
     "trev.norris@gmail.com"
   ] },
-  { "from": "ctc", "to": [
+  { "from": "ctc",
+    "description": "All members of @nodejs/CTC",
+    "to": [
     "anna@addaleax.net",
     "chalkerx@gmail.com",
     "cjihrig@gmail.com",
@@ -39,7 +43,9 @@
     "joyeec9h3@gmail.com",
     "matteo.collina@gmail.com"
   ] },
-  { "from": "security", "to": [
+  { "from": "security",
+    "description": "Node.js core security triage group, small group acting as a gateway to nodejs-private/security",
+    "to": [
     "info@bnoordhuis.nl",
     "fedor.indutny@gmail.com",
     "rod@vagg.org",
@@ -47,7 +53,9 @@
     "ohtsu@ohtsu.org",
     "myles.borins@gmail.com"
   ] },
-  { "from": "report", "to": [
+  { "from": "report",
+    "description": "Moderation team, used for reporting items related to the Code of Conduct",
+    "to": [
     "tracyhinds@gmail.com",
     "ryanharrisonlewis@gmail.com",
     "othiym23@gmail.com",
@@ -58,30 +66,40 @@
     "rtrott@gmail.com",
     "thechargingvolcano@gmail.com"
   ] },
-  { "from": "admin", "to": [
+  { "from": "admin",
+    "description": "build/infra team, used primarily for authenticating domain-level ownership",
+    "to": [
     "jbergstroem@iojs.org",
     "michael_dawson@ca.ibm.com",
     "reis@janeasystems.com",
     "rod@vagg.org"
   ] },
-  { "from": "accounts", "to": [
+  { "from": "accounts",
+    "description": "build/infra team, used for infra-level accounts with various external services",
+    "to": [
     "jbergstroem@iojs.org",
     "michael_dawson@ca.ibm.com",
     "reis@janeasystems.com",
     "rod@vagg.org"
   ] },
-  { "from": "build", "to": [
+  { "from": "build",
+    "description": "build/infra team, used for infra-level accounts with various external services (prefer accounts@ for new accounts)",
+    "to": [
     "jbergstroem@iojs.org",
     "michael_dawson@ca.ibm.com",
     "reis@janeasystems.com",
     "rod@vagg.org"
   ] },
-  { "from": "ci", "to": [
+  { "from": "ci",
+    "description": "GitHub account (TODO: which one?)",
+    "to": [
     "reis@janeasystems.com"
   ] },
-  { "from": "rvagg", "to": "rod@vagg.org" },
-  { "from": "jbergstroem", "to": "bugs@bergstroem.nu" },
-  { "from": "ci-alert", "to": [
+  { "from": "rvagg", "description": "Used for testing only", "to": "rod@vagg.org" },
+  { "from": "jbergstroem", "description": "Used for testing only", "to": "bugs@bergstroem.nu" },
+  { "from": "ci-alert",
+    "description": "Used for alerts regarding CI system problems, some members of @nodejs/build",
+    "to": [
     "rvagg@iojs.org",
     "reis@janeasystems.com",
     "alexis@janeasystems.com",
@@ -90,7 +108,9 @@
     "johphi@gmail.com",
     "gibfahn@gmail.com"
   ] },
-    { "from": "commcomm", "to": [
+    { "from": "commcomm",
+    "description": "Community Committee, members of @nodejs/community-committee",
+    "to": [
     "will@kap.co",
     "nodejs.commcomm@martynus.net",
     "hello@bnb.im",
@@ -105,10 +125,14 @@
     "dshaw@dshaw.com",
     "jem@hipmedia.ca"
   ] },
-    { "from": "release-validation-alert", "to": [
+    { "from": "release-validation-alert",
+      "description": "TODO",
+      "to": [
       "michael_dawson@ca.ibm.com"
   ] },
-    { "from": "moderation", "to": [
+    { "from": "moderation",
+      "description": "Moderation team, members of @nodejs/moderation",
+      "to": [
       "tracyhinds@gmail.com",
       "ryanharrisonlewis@gmail.com",
       "othiym23@gmail.com",
@@ -119,23 +143,33 @@
       "rtrott@gmail.com",
       "thechargingvolcano@gmail.com"
   ] },
-    { "from": "cve-request", "to": [
+    { "from": "cve-request",
+      "description": "Contact for requesting a new CVE assignment for a security vulnerability",
+      "to": [
       "michael_dawson@ca.ibm.com",
       "info@bnoordhuis.nl",
       "vieuxtech@gmail.com"
   ] },
-    { "from": "cve-mitre-contact", "to": [
+    { "from": "cve-mitre-contact",
+      "description": "Contact address for Mitre regarding our CVE block assignments",
+      "to": [
       "michael_dawson@ca.ibm.com",
       "info@bnoordhuis.nl",
       "vieuxtech@gmail.com"
   ] },
-    { "from": "cna-discussion-list", "to": [
+    { "from": "cna-discussion-list",
+      "description": "TODO",
+      "to": [
       "michael_dawson@ca.ibm.com"
   ] },
-    { "from": "security-ecosystem", "to": [
+    { "from": "security-ecosystem",
+      "description": "For reporting ecosystem security vulnerability, forwarded to HackerOne",
+      "to": [
       "nodejs-ecosystem-f6dff0c98b32758c@forwarding.hackerone.com"
   ] },
-    { "from": "user-feedback", "to": [
+    { "from": "user-feedback",
+      "description": "User feedback group? TODO",
+      "to": [
       "michael_dawson@ca.ibm.com",
       "dshaw@dshaw.com"
   ] }
