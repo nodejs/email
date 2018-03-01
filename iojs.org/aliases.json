@@ -151,7 +151,7 @@
       "vieuxtech@gmail.com"
   ] },
     { "from": "cve-mitre-contact",
-      "description": "Contact use by Mitre to community with us with regard to CVE assignments for Node.js",
+      "description": "Contact used by Mitre to communicate with us with regard to CVE assignments for Node.js",
       "to": [
       "michael_dawson@ca.ibm.com",
       "info@bnoordhuis.nl",
