@@ -168,7 +168,7 @@
       "nodejs-ecosystem-f6dff0c98b32758c@forwarding.hackerone.com"
   ] },
     { "from": "user-feedback",
-      "description": "User feedback group? TODO",
+      "description": "Used to receive private contact info from oganizations/individuals participating with the user feedback team",
       "to": [
       "michael_dawson@ca.ibm.com",
       "dshaw@dshaw.com"
