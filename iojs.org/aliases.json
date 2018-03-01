@@ -126,7 +126,7 @@
     "jem@hipmedia.ca"
   ] },
     { "from": "release-validation-alert",
-      "description": "TODO",
+      "description": "Those notified when release validation CI job fails",
       "to": [
       "michael_dawson@ca.ibm.com"
   ] },
@@ -144,21 +144,21 @@
       "thechargingvolcano@gmail.com"
   ] },
     { "from": "cve-request",
-      "description": "Contact for requesting a new CVE assignment for a security vulnerability",
+      "description": "Public address for requesting a new CVE assignment for a security vulnerability",
       "to": [
       "michael_dawson@ca.ibm.com",
       "info@bnoordhuis.nl",
       "vieuxtech@gmail.com"
   ] },
     { "from": "cve-mitre-contact",
-      "description": "Contact address for Mitre regarding our CVE block assignments",
+      "description": "Contact use by Mitre to community with us with regard to CVE assignments for Node.js",
       "to": [
       "michael_dawson@ca.ibm.com",
       "info@bnoordhuis.nl",
       "vieuxtech@gmail.com"
   ] },
     { "from": "cna-discussion-list",
-      "description": "TODO",
+      "description": "address added to cna discussion list in order to keep those involved in handling CVEs for Node.js in the loop on general topics",
       "to": [
       "michael_dawson@ca.ibm.com"
   ] },
