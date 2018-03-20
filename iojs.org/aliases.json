@@ -1,33 +1,79 @@
 [
   { "from": "tsc", "to": [
-    "info@bnoordhuis.nl",
-    "bertbelder@nodejs.org",
-    "fedor.indutny@gmail.com",
-    "trev.norris@gmail.com",
-    "christopher.s.dickinson@gmail.com",
-    "rod@vagg.org",
-    "fishrock123@rocketmail.com",
+    "anna@addaleax.net",
+    "chalkerx@gmail.com",
     "cjihrig@gmail.com",
-    "orangemocha@nodejs.org",
-    "jgilli@nodejs.org",
+    "daniel.bevenius@gmail.com",
+    "evanlucas@me.com",
+    "franziska.hinkelmann@gmail.com",
+    "fishrock123@rocketmail.com",
+    "gibfahn@gmail.com",
     "jasnell@gmail.com",
-    "ohtsu@iij.ad.jp",
-    "mscdex@mscdex.net"
+    "joyeec9h3@gmail.com",
+    "matteo.collina@gmail.com",
+    "michael_dawson@ca.ibm.com",
+    "myles.borins@gmail.com",
+    "ofrobots@google.com",
+    "rod@vagg.org",
+    "rtrott@gmail.com",
+    "targos@protonmail.com",
+    "thechargingvolcano@gmail.com",
+    "trev.norris@gmail.com"
+  ] },
+  { "from": "ctc", "to": [
+    "anna@addaleax.net",
+    "chalkerx@gmail.com",
+    "cjihrig@gmail.com",
+    "evanlucas@me.com",
+    "franziska.hinkelmann@gmail.com",
+    "fishrock123@rocketmail.com",
+    "jasnell@gmail.com",
+    "michael_dawson@ca.ibm.com",
+    "ofrobots@google.com",
+    "rod@vagg.org",
+    "trev.norris@gmail.com",
+    "rtrott@gmail.com",
+    "myles.borins@gmail.com",
+    "thechargingvolcano@gmail.com",
+    "targos@protonmail.com",
+    "joyeec9h3@gmail.com",
+    "matteo.collina@gmail.com"
   ] },
   { "from": "security", "to": [
     "info@bnoordhuis.nl",
     "fedor.indutny@gmail.com",
     "rod@vagg.org",
     "jasnell@gmail.com",
-    "ohtsu@iij.ad.jp"
+    "ohtsu@ohtsu.org",
+    "myles.borins@gmail.com"
+  ] },
+  { "from": "report", "to": [
+    "tracyhinds@gmail.com",
+    "ryanharrisonlewis@gmail.com",
+    "othiym23@gmail.com",
+    "benjamingr@gmail.com",
+    "refack@gmail.com",
+    "gibfahn@gmail.com",
+    "hello@bnb.im",
+    "rtrott@gmail.com",
+    "thechargingvolcano@gmail.com"
   ] },
   { "from": "admin", "to": [
+    "jbergstroem@iojs.org",
+    "michael_dawson@ca.ibm.com",
+    "reis@janeasystems.com",
     "rod@vagg.org"
   ] },
   { "from": "accounts", "to": [
+    "jbergstroem@iojs.org",
+    "michael_dawson@ca.ibm.com",
+    "reis@janeasystems.com",
     "rod@vagg.org"
   ] },
   { "from": "build", "to": [
+    "jbergstroem@iojs.org",
+    "michael_dawson@ca.ibm.com",
+    "reis@janeasystems.com",
     "rod@vagg.org"
   ] },
   { "from": "ci", "to": [
@@ -37,10 +83,61 @@
   { "from": "jbergstroem", "to": "bugs@bergstroem.nu" },
   { "from": "ci-alert", "to": [
     "rvagg@iojs.org",
-    "jbergstroem@iojs.org",
     "reis@janeasystems.com",
     "alexis@janeasystems.com",
     "michael_dawson@ca.ibm.com",
-    "hans@starefossen.com"
+    "hans@starefossen.com",
+    "johphi@gmail.com",
+    "gibfahn@gmail.com"
+  ] },
+    { "from": "commcomm", "to": [
+    "will@kap.co",
+    "nodejs.commcomm@martynus.net",
+    "hello@bnb.im",
+    "loveless@gmail.com",
+    "joesepi@gmail.com",
+    "tracyhinds@gmail.com",
+    "michael_dawson@ca.ibm.com",
+    "msmichellegar@gmail.com",
+    "olivia@fastmail.com",
+    "benpmichel@gmail.com",
+    "manil.chowdhury@gmail.com",
+    "dshaw@dshaw.com",
+    "jem@hipmedia.ca",
+    "ammiller@linkedin.com"
+  ] },
+    { "from": "release-validation-alert", "to": [
+      "michael_dawson@ca.ibm.com"
+  ] },
+    { "from": "moderation", "to": [
+      "tracyhinds@gmail.com",
+      "ryanharrisonlewis@gmail.com",
+      "othiym23@gmail.com",
+      "benjamingr@gmail.com",
+      "refack@gmail.com",
+      "gibfahn@gmail.com",
+      "hello@bnb.im",
+      "rtrott@gmail.com",
+      "thechargingvolcano@gmail.com"
+  ] },
+    { "from": "cve-request", "to": [
+      "michael_dawson@ca.ibm.com",
+      "info@bnoordhuis.nl",
+      "vieuxtech@gmail.com"
+  ] },
+    { "from": "cve-mitre-contact", "to": [
+      "michael_dawson@ca.ibm.com",
+      "info@bnoordhuis.nl",
+      "vieuxtech@gmail.com"
+  ] },
+    { "from": "cna-discussion-list", "to": [
+      "michael_dawson@ca.ibm.com"
+  ] },
+    { "from": "security-ecosystem", "to": [
+      "nodejs-ecosystem-f6dff0c98b32758c@forwarding.hackerone.com"
+  ] },
+    { "from": "user-feedback", "to": [
+      "michael_dawson@ca.ibm.com",
+      "dshaw@dshaw.com"
   ] }
 ]
