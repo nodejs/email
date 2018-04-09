@@ -40,12 +40,7 @@
     "matteo.collina@gmail.com"
   ] },
   { "from": "security", "to": [
-    "info@bnoordhuis.nl",
-    "fedor.indutny@gmail.com",
-    "rod@vagg.org",
-    "jasnell@gmail.com",
-    "ohtsu@ohtsu.org",
-    "myles.borins@gmail.com"
+    "nodejs-79566c66a30b0312@forwarding.hackerone.com"
   ] },
   { "from": "report", "to": [
     "tracyhinds@gmail.com",
