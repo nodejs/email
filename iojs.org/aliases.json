@@ -134,5 +134,10 @@
     { "from": "user-feedback", "to": [
       "michael_dawson@ca.ibm.com",
       "dshaw@dshaw.com"
+  ] },
+    { "from": "nodejs-crowdin", "to": [
+      "rod@vagg.org",
+      "zeke@sikelianos.com",
+      "obensource@benmichel.com"
   ] }
 ]
