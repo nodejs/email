@@ -89,13 +89,14 @@
     "joesepi@gmail.com",
     "tracyhinds@gmail.com",
     "michael_dawson@ca.ibm.com",
-    "msmichellegar@gmail.com",
     "benpmichel@gmail.com",
     "manil.chowdhury@gmail.com",
     "dshaw@dshaw.com",
     "jem@hipmedia.ca",
     "ammiller@linkedin.com",
-    "benjamin.zaslavsky@gmail.com"
+    "benjamin.zaslavsky@gmail.com",
+    "ahmadbamieh@gmail.com",
+    "waleedashrafhere@gmail.com"
   ] },
     { "from": "release-validation-alert", "to": [
       "michael_dawson@ca.ibm.com"
