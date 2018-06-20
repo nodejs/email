@@ -200,5 +200,17 @@
       "rod@vagg.org",
       "zeke@sikelianos.com"
     ]
+  },
+  {
+    "from": "github-bot",
+    "to": [
+      "bugs@bergstroem.nu",
+      "fishrock123@rocketmail.com",
+      "johphi@gmail.com",
+      "joyeec9h3@gmail.com",
+      "me@jonathanmoss.me",
+      "mscdex@mscdex.net",
+      "william.kapke@gmail.com"
+    ]
   }
 ]
