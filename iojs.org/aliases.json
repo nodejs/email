@@ -122,6 +122,7 @@
   {
     "from": "commcomm",
     "to": [
+       "agiriabrahamjunior@gmail.com",
       "ahmadbamieh@gmail.com",
       "ammiller@linkedin.com",
       "benjamin.zaslavsky@gmail.com",
@@ -212,6 +213,40 @@
       "mscdex@mscdex.net",
       "william.kapke@gmail.com"
     ]
+  },
+  {
+    "from": "crypto-export",
+    "to": [
+      "myles.borins@gmail.com",
+      "mhinkle@linuxfoundation.org",
+      "anna@addaleax.net",
+      "chalkerx@gmail.com",
+      "cjihrig@gmail.com",
+      "daniel.bevenius@gmail.com",
+      "fishrock123@rocketmail.com",
+      "franziska.hinkelmann@gmail.com",
+      "gibfahn@gmail.com",
+      "jasnell@gmail.com",
+      "joyeec9h3@gmail.com",
+      "matteo.collina@gmail.com",
+      "michael_dawson@ca.ibm.com",
+      "myles.borins@gmail.com",
+      "ofrobots@google.com",
+      "rod@vagg.org",
+      "rtrott@gmail.com",
+      "targos@protonmail.com",
+      "thechargingvolcano@gmail.com",
+      "timothygu99@gmail.com"
+    ]
+  },
+  {
+    "from": "i18n",
+    "to": [
+      "dhruvjainpenny@gmail.com",
+      "obensource@benmichel.com",
+      "richard.littauer@gmail.com",
+      "zeke@sikelianos.com"
+      ]
   },
   {
     "from": "website-redesign",
