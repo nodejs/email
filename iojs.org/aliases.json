@@ -109,7 +109,6 @@
   {
     "from": "ci-alert",
     "to": [
-      "alexis@janeasystems.com",
       "gibfahn@gmail.com",
       "hans@starefossen.com",
       "johphi@gmail.com",
