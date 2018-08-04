@@ -121,6 +121,7 @@
     "from": "build-security",
     "description": "Security mailing list updates for Build WG software",
     "to": [
+      "gibfahn@gmail.com",
       "me@jonathanmoss.me"
     ]
   },
