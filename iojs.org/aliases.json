@@ -82,7 +82,6 @@
   {
     "from": "build",
     "to": [
-      "george.adams@uk.ibm.com",
       "jbergstroem@iojs.org",
       "michael_dawson@ca.ibm.com",
       "reis@janeasystems.com",
@@ -255,5 +254,12 @@
       "richard.littauer@gmail.com",
       "zeke@sikelianos.com"
       ]
+  },
+    {
+    "from": "node-slack-bot",
+    "to": [
+      "george.adams@uk.ibm.com",
+      "refack@gmail.com"
+    ]
   }
 ]
