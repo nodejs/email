@@ -82,6 +82,7 @@
   {
     "from": "build",
     "to": [
+      "george.adams@uk.ibm.com",
       "jbergstroem@iojs.org",
       "michael_dawson@ca.ibm.com",
       "reis@janeasystems.com",
