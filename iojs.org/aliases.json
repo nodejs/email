@@ -254,5 +254,12 @@
       "richard.littauer@gmail.com",
       "zeke@sikelianos.com"
       ]
+  },
+    {
+    "from": "node-slack-bot",
+    "to": [
+      "george.adams@uk.ibm.com",
+      "refack@gmail.com"
+    ]
   }
 ]
