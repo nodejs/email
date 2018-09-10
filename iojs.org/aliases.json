@@ -254,13 +254,22 @@
       "obensource@benmichel.com",
       "richard.littauer@gmail.com",
       "zeke@sikelianos.com"
-      ]
+    ]
   },
-    {
+  {
     "from": "node-slack-bot",
     "to": [
       "george.adams@uk.ibm.com",
       "refack@gmail.com"
+    ]
+  },
+  {
+    "from": "website-redesign",
+    "to": [
+      "ammiller@linkedin.com",
+      "dhruvjainpenny@gmail.com",
+      "hello@bnb.im",
+      "manil.chowdhury@gmail.com"
     ]
   }
 ]
