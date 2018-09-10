@@ -3,6 +3,7 @@
     "from": "tsc",
     "to": [
       "anna@addaleax.net",
+      "apapirovski@mac.com",
       "chalkerx@gmail.com",
       "cjihrig@gmail.com",
       "daniel.bevenius@gmail.com",
@@ -55,7 +56,6 @@
       "gibfahn@gmail.com",
       "hello@bnb.im",
       "othiym23@gmail.com",
-      "refack@gmail.com",
       "rtrott@gmail.com",
       "ryanharrisonlewis@gmail.com",
       "thechargingvolcano@gmail.com",
@@ -110,7 +110,6 @@
   {
     "from": "ci-alert",
     "to": [
-      "alexis@janeasystems.com",
       "gibfahn@gmail.com",
       "hans@starefossen.com",
       "johphi@gmail.com",
@@ -120,9 +119,18 @@
     ]
   },
   {
+    "from": "build-security",
+    "description": "Security mailing list updates for Build WG software",
+    "to": [
+      "gibfahn@gmail.com",
+      "matheusdot@gmail.com",
+      "me@jonathanmoss.me"
+    ]
+  },
+  {
     "from": "commcomm",
     "to": [
-       "agiriabrahamjunior@gmail.com",
+      "agiriabrahamjunior@gmail.com",
       "ahmadbamieh@gmail.com",
       "ammiller@linkedin.com",
       "benjamin.zaslavsky@gmail.com",
@@ -134,6 +142,7 @@
       "loveless@gmail.com",
       "manil.chowdhury@gmail.com",
       "michael_dawson@ca.ibm.com",
+      "refack@gmail.com",
       "tracyhinds@gmail.com",
       "waleedashrafhere@gmail.com",
       "will@kap.co"
@@ -152,7 +161,6 @@
       "gibfahn@gmail.com",
       "hello@bnb.im",
       "othiym23@gmail.com",
-      "refack@gmail.com",
       "rtrott@gmail.com",
       "ryanharrisonlewis@gmail.com",
       "thechargingvolcano@gmail.com",
@@ -246,7 +254,14 @@
       "obensource@benmichel.com",
       "richard.littauer@gmail.com",
       "zeke@sikelianos.com"
-      ]
+    ]
+  },
+  {
+    "from": "node-slack-bot",
+    "to": [
+      "george.adams@uk.ibm.com",
+      "refack@gmail.com"
+    ]
   },
   {
     "from": "website-redesign",
@@ -254,8 +269,7 @@
       "ammiller@linkedin.com",
       "dhruvjainpenny@gmail.com",
       "hello@bnb.im",
-      "manil.chowdhury@gmail.com",
-      "olivia@fastmail.com"
+      "manil.chowdhury@gmail.com"
     ]
   }
 ]
