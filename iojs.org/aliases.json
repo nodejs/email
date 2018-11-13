@@ -16,7 +16,7 @@
       "michael_dawson@ca.ibm.com",
       "myles.borins@gmail.com",
       "ofrobots@google.com",
-      "rod@vagg.org",
+      "r@va.gg",
       "rtrott@gmail.com",
       "targos@protonmail.com",
       "thechargingvolcano@gmail.com",
@@ -37,7 +37,7 @@
       "michael_dawson@ca.ibm.com",
       "myles.borins@gmail.com",
       "ofrobots@google.com",
-      "rod@vagg.org",
+      "r@va.gg",
       "rtrott@gmail.com",
       "targos@protonmail.com",
       "thechargingvolcano@gmail.com"
@@ -69,7 +69,7 @@
       "jbergstroem@iojs.org",
       "michael_dawson@ca.ibm.com",
       "reis@janeasystems.com",
-      "rod@vagg.org"
+      "r@va.gg"
     ]
   },
   {
@@ -78,7 +78,7 @@
       "jbergstroem@iojs.org",
       "michael_dawson@ca.ibm.com",
       "reis@janeasystems.com",
-      "rod@vagg.org"
+      "r@va.gg"
     ]
   },
   {
@@ -87,7 +87,7 @@
       "jbergstroem@iojs.org",
       "michael_dawson@ca.ibm.com",
       "reis@janeasystems.com",
-      "rod@vagg.org"
+      "r@va.gg"
     ]
   },
   {
@@ -99,7 +99,7 @@
   {
     "from": "rvagg",
     "to": [
-      "rod@vagg.org"
+      "r@va.gg"
     ]
   },
   {
@@ -116,7 +116,7 @@
       "johphi@gmail.com",
       "michael_dawson@ca.ibm.com",
       "reis@janeasystems.com",
-      "rvagg@iojs.org"
+      "r@va.gg"
     ]
   },
   {
@@ -208,7 +208,7 @@
     "from": "nodejs-crowdin",
     "to": [
       "obensource@benmichel.com",
-      "rod@vagg.org",
+      "r@va.gg",
       "zeke@sikelianos.com"
     ]
   },
@@ -242,7 +242,7 @@
       "michael_dawson@ca.ibm.com",
       "myles.borins@gmail.com",
       "ofrobots@google.com",
-      "rod@vagg.org",
+      "r@va.gg",
       "rtrott@gmail.com",
       "targos@protonmail.com",
       "thechargingvolcano@gmail.com",
