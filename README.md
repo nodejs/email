@@ -1,6 +1,6 @@
 # nodejs/email
 
-**MX server management for iojs.org (and eventually nodejs.org)**
+**MX server management for iojs.org**
 
 ## Email aliases
 
@@ -16,13 +16,12 @@ Members of the Build Working Group "Infra" team (Rod Vagg, Johan Bergström, Mic
 
 ## nodejs.org email aliases
 
-nodejs.org aliases are managed by the Foundation.  In order to set one up:
+nodejs.org aliases are managed by the Linux Foundation.  In order to set one up:
 
 * create an iojs.org alias and associate the intended recipients to it.
-* email 'helpdesk@rt.linuxfoundation.org' requesting that the nodejs.org point to the alias.
-  In the email, cc our Foundation contact and provide context as to why the alias is needed.
+* email 'helpdesk@rt.linuxfoundation.org' requesting that the nodejs.org point to the alias. In the email, CC a Node.js Foundation contact (Executive Director or other staff) and provide context as to why the alias is needed.
 
 ## License & copyright
 
-The contents of this repository is Copyright (c) 2015 The Node.js Foundation and licensed under the MIT licence. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE.md file for more details.
+The contents of this repository is Copyright (c) Node.js Foundation and licensed under the MIT licence. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE.md file for more details.
 
