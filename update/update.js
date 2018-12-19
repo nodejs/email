@@ -8,11 +8,12 @@ const fs   = require('fs')
 require('http').globalAgent.maxSockets = 20
 
 if (process.argv.length < 3) {
-  console.error('Usage: update <domain>')
+  console.error('Usage: update [--dry-run] <domain>')
   return process.exit(1)
 }
 
-const domain    = process.argv[2].replace(/\/$/, '')
+const dryRun    = process.argv.includes('--dry-run')
+    , domain    = process.argv.filter((a) => a !== '--dry-run')[2].replace(/\/$/, '')
     , dir       = path.join(__dirname, '..', domain)
     , credsFile = path.join(dir, 'credentials.json')
 
@@ -35,7 +36,7 @@ if (typeof creds['api-key'] != 'string') {
 
 const aliases = require(path.join(dir, 'aliases.json'))
 
-updateAliases(domain, creds, aliases, function (err) {
+updateAliases(domain, creds, aliases, dryRun, function (err) {
   if (err)
     throw err
 })

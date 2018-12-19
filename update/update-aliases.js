@@ -37,7 +37,7 @@ function diff (domain, a1, a2) {
 }
 
 
-function updateAliases (domain, creds, aliases, callback) {
+function updateAliases (domain, creds, aliases, dryRun, callback) {
   function adjustRoutes (routes) {
 
     var current = routes.items
@@ -60,12 +60,16 @@ function updateAliases (domain, creds, aliases, callback) {
     toAdd.forEach(function (alias) {
       var to = Array.isArray(alias.to) ? alias.to : [ alias.to ]
       console.log(`Adding ${alias.from} -> ${to.join(', ')}...`)
-      addRoute(domain, creds, alias.from, alias.expression, alias.actions, done)
+      if (!dryRun) {
+        addRoute(domain, creds, alias.from, alias.expression, alias.actions, done)
+      }
     })
 
     toRemove.forEach(function (alias) {
       console.log(`Deleting ${alias.expression}...`)
-      deleteRoute(domain, creds, alias.id, done)
+      if (!dryRun) {
+        deleteRoute(domain, creds, alias.id, done)
+      }
     })
   }
 
