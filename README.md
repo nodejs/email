@@ -17,7 +17,7 @@ The [iojs.org](./iojs.org) directory contains the [aliases.json](./iojs.org/alia
 
 ### Responsibility
 
-Changes to the information in this repo sould be done concomitantly with updates to the configured mail routes in Mailgun. Since access to the Mailgun API key is required, only members of the @nodejs/build-infra team have the permission to push code to the `master` branch. That was done in order to minimize the posibility of mismatches between the information in this repo, and the actual email routes that are set up.
+Since access to the Mailgun API key is required, only members of the @nodejs/build-infra team have the permission to push code to the `master` branch. That was done in order to minimize the posibility of mismatches between the information in this repo, and the actual email routes that are set up.
 
 ### Procedure
 
@@ -25,7 +25,7 @@ The [update](./update) directory contains a node program which will read the ali
 
 The Mailgun API key for the given domain is required. It can be found in the `admin_logins.md` file in the secrets repo (build/infra/), or direclty via the Rackspace API. The key should be stored as a file named `iojs.org/credentials.json` in the form: `{ "api-key": "key-abc..." }` within a code tree.
 
-The programs can be used with `--dry-run` to verifry the current status and what will be changed by an update.
+The programs can be used with `--dry-run` to verify the current status and what will be changed by an update.
 
 
 # nodejs.org
