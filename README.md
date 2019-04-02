@@ -28,13 +28,13 @@ The Mailgun API key for the given domain is required. It can be found in the `ad
 The programs can be used with `--dry-run` to verify the current status and what will be changed by an update.
 
 
-# nodejs.org
+## nodejs.org
 
 `@nodejs.org` email adresses are managed by the Linux Foundation. In order to set one up:
 * Create an iojs.org alias with associated recipients as described above.
 * Send an email to 'helpdesk@rt.linuxfoundation.org' requesting that the wanted nodejs.org address by directed to the new alias. Please CC an OpenJS Foundation contact person and provide context as to why the alias is needed.
 
-#### License & copyright
+## License & copyright
 
 The contents of this repository is Copyright (c) Node.js Foundation and licensed under the MIT licence. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE.md file for more details.
 
