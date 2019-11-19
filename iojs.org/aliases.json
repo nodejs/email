@@ -148,8 +148,8 @@
   {
     "from": "release-validation-alert",
     "to": [
-      "michael_dawson@ca.ibm.com"
-      "michael_dawson@devrus.com",
+      "michael_dawson@ca.ibm.com",
+      "michael_dawson@devrus.com"
     ]
   },
   {
@@ -201,8 +201,8 @@
     "from": "user-feedback",
     "to": [
       "dshaw@dshaw.com",
-      "michael_dawson@ca.ibm.com"
-      "michael_dawson@devrus.com",
+      "michael_dawson@ca.ibm.com",
+      "michael_dawson@devrus.com"
     ]
   },
   {
