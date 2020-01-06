@@ -1,14 +1,10 @@
-const hyperquest = require('hyperquest')
-    , bl         = require('bl')
+const jsonist = require('jsonist')
 
-    , url        = 'https://api.mailgun.net/v3/routes'
-
+const url = 'https://api.mailgun.net/v3/routes'
 
 function deleteRoute (domain, creds, id, callback) {
-  var options = { auth: `api:${creds["api-key"]}` }
-
-  hyperquest.delete(`${url}/${id}`, options).pipe(bl(callback))
+  const options = { auth: `api:${creds['api-key']}` }
+  jsonist.delete(`${url}/${id}`, options, callback)
 }
-
 
 module.exports = deleteRoute
