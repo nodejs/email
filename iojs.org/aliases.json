@@ -267,8 +267,7 @@
   {
     "from": "node-slack-bot",
     "to": [
-      "georgeadams1995@gmail.com",
-      "refack@gmail.com"
+      "georgeadams1995@gmail.com"
     ]
   },
   {
