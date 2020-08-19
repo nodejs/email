@@ -2,7 +2,6 @@
   {
     "from": "tsc",
     "to": [
-      "anna@addaleax.net",
       "apapirovski@mac.com",
       "Bethany.Griggs@uk.ibm.com",
       "chalkerx@gmail.com",
@@ -28,7 +27,6 @@
   {
     "from": "ctc",
     "to": [
-      "anna@addaleax.net",
       "chalkerx@gmail.com",
       "cjihrig@gmail.com",
       "franziska.hinkelmann@gmail.com",
@@ -229,7 +227,6 @@
     "from": "crypto-export",
     "to": [
       "myles.borins@gmail.com",
-      "anna@addaleax.net",
       "Bethany.Griggs@uk.ibm.com",
       "chalkerx@gmail.com",
       "cjihrig@gmail.com",
