@@ -14,8 +14,7 @@
       "joyeec9h3@gmail.com",
       "oss@mmarchini.me",
       "matteo.collina@gmail.com",
-      "michael_dawson@ca.ibm.com",
-      "michael_dawson@devrus.com",
+      "midawson@redhat.com",
       "myles.borins@gmail.com",
       "rtrott@gmail.com",
       "ruben@bridgewater.de",
@@ -32,8 +31,7 @@
       "franziska.hinkelmann@gmail.com",
       "joyeec9h3@gmail.com",
       "matteo.collina@gmail.com",
-      "michael_dawson@ca.ibm.com",
-      "michael_dawson@devrus.com",
+      "midawson@redhat.com",
       "myles.borins@gmail.com",
       "rtrott@gmail.com",
       "targos@protonmail.com"
@@ -63,8 +61,7 @@
     "from": "admin",
     "to": [
       "jbergstroem@iojs.org",
-      "michael_dawson@ca.ibm.com",
-      "michael_dawson@devrus.com",
+      "midawson@redhat.com",
       "reis@janeasystems.com",
       "r@va.gg"
     ]
@@ -73,8 +70,7 @@
     "from": "accounts",
     "to": [
       "jbergstroem@iojs.org",
-      "michael_dawson@ca.ibm.com",
-      "michael_dawson@devrus.com",
+      "midawson@redhat.com",
       "reis@janeasystems.com",
       "r@va.gg"
     ]
@@ -83,8 +79,7 @@
     "from": "build",
     "to": [
       "jbergstroem@iojs.org",
-      "michael_dawson@ca.ibm.com",
-      "michael_dawson@devrus.com",
+      "midawson@redhat.com",
       "reis@janeasystems.com",
       "r@va.gg"
     ]
@@ -113,8 +108,7 @@
       "gibfahn@gmail.com",
       "hans@starefossen.com",
       "johphi@gmail.com",
-      "michael_dawson@ca.ibm.com",
-      "michael_dawson@devrus.com",
+      "midawson@redhat.com",
       "reis@janeasystems.com",
       "r@va.gg"
     ]
@@ -137,8 +131,7 @@
       "joesepi@gmail.com",
       "manil.chowdhury@gmail.com",
       "me@AhmadAwais.com",
-      "michael_dawson@ca.ibm.com",
-      "michael_dawson@devrus.com",
+      "midawson@redhat.com",
       "waleedashrafhere@gmail.com",
       "loveless@gmail.com"
     ]
@@ -146,8 +139,7 @@
   {
     "from": "release-validation-alert",
     "to": [
-      "michael_dawson@ca.ibm.com",
-      "michael_dawson@devrus.com"
+      "midawson@redhat.com"
     ]
   },
   {
@@ -168,8 +160,7 @@
     "from": "cve-request",
     "to": [
       "info@bnoordhuis.nl",
-      "michael_dawson@ca.ibm.com",
-      "michael_dawson@devrus.com",
+      "midawson@redhat.com",
       "vladimir@sqreen.io"
     ]
   },
@@ -177,16 +168,14 @@
     "from": "cve-mitre-contact",
     "to": [
       "info@bnoordhuis.nl",
-      "michael_dawson@ca.ibm.com",
-      "michael_dawson@devrus.com",
+      "midawson@redhat.com",
       "vladimir@sqreen.io"
     ]
   },
   {
     "from": "cna-discussion-list",
     "to": [
-      "michael_dawson@ca.ibm.com",
-      "michael_dawson@devrus.com",
+      "midawson@redhat.com",
       "vladimir@sqreen.io"
     ]
   },
@@ -200,8 +189,7 @@
     "from": "user-feedback",
     "to": [
       "dshaw@dshaw.com",
-      "michael_dawson@ca.ibm.com",
-      "michael_dawson@devrus.com"
+      "midawson@redhat.com"
     ]
   },
   {
@@ -238,8 +226,7 @@
       "joyeec9h3@gmail.com",
       "oss@mmarchini.me",
       "matteo.collina@gmail.com",
-      "michael_dawson@ca.ibm.com",
-      "michael_dawson@devrus.com",
+      "midawson@redhat.com",
       "myles.borins@gmail.com",
       "rtrott@gmail.com",
       "ruben@bridgewater.de",
