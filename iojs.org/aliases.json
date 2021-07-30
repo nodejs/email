@@ -148,7 +148,8 @@
   {
     "from": "release-validation-alert",
     "to": [
-      "midawson@redhat.com"
+      "midawson@redhat.com",
+      "rlau@redhat.com"
     ]
   },
   {
