@@ -50,7 +50,6 @@
     "from": "report",
     "to": [
       "benjamingr@gmail.com",
-      "george.adams@microsoft.com",
       "hello@bnb.im",
       "huyuumi.dev@gmail.com",
       "ljharb@gmail.com",
@@ -156,7 +155,6 @@
     "from": "moderation",
     "to": [
       "benjamingr@gmail.com",
-      "george.adams@microsoft.com",
       "hello@bnb.im",
       "huyuumi.dev@gmail.com",
       "ljharb@gmail.com",
