@@ -131,20 +131,6 @@
     ]
   },
   {
-    "from": "commcomm",
-    "to": [
-      "agiriabrahamjunior@gmail.com",
-      "benpmichel@gmail.com",
-      "hello@bnb.im",
-      "joesepi@gmail.com",
-      "manil.chowdhury@gmail.com",
-      "me@AhmadAwais.com",
-      "midawson@redhat.com",
-      "waleedashrafhere@gmail.com",
-      "loveless@gmail.com"
-    ]
-  },
-  {
     "from": "release-validation-alert",
     "to": [
       "midawson@redhat.com",
