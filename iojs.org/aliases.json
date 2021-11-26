@@ -153,7 +153,6 @@
   {
     "from": "cve-request",
     "to": [
-      "info@bnoordhuis.nl",
       "midawson@redhat.com",
       "vladimir@sqreen.io"
     ]
@@ -161,7 +160,6 @@
   {
     "from": "cve-mitre-contact",
     "to": [
-      "info@bnoordhuis.nl",
       "midawson@redhat.com",
       "vladimir@sqreen.io"
     ]
