@@ -253,7 +253,7 @@
     ]
   },
   {
-    "from": "zoom-nodejs@iojs.org",
+    "from": "zoom-nodejs",
     "to": [
       "bwarner@linuxfoundation.org",
       "midawson@redhat.com",
