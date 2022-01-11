@@ -251,5 +251,19 @@
       "hello@bnb.im",
       "manil.chowdhury@gmail.com"
     ]
+  },
+  {
+    "from": "zoom-nodejs@iojs.org",
+    "to": [
+      "bwarner@linuxfoundation.org",
+      "midawson@redhat.com",
+      "gpunathi@in.ibm.com",
+      "bgriggs@redhat.com",
+      "geoffreybooth@gmail.com",
+      "gabrielschulhof@gmail.com",
+      "kevin.c.eady@gmail.com",
+      "ian@iansutherland.ca",
+      "joesepi@ibm.com"
+    ]
   }
 ]
