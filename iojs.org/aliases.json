@@ -177,13 +177,6 @@
     ]
   },
   {
-    "from": "user-feedback",
-    "to": [
-      "dshaw@dshaw.com",
-      "midawson@redhat.com"
-    ]
-  },
-  {
     "from": "nodejs-crowdin",
     "to": [
       "obensource@benmichel.com",
