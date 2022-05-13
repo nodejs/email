@@ -221,6 +221,7 @@
   {
     "from": "zoom-nodejs",
     "to": [
+      "bencoe@google.com",
       "bwarner@linuxfoundation.org",
       "midawson@redhat.com",
       "gpunathi@in.ibm.com",
