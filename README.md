@@ -17,7 +17,7 @@ The [iojs.org](./iojs.org) directory contains the [aliases.json](./iojs.org/alia
 
 ### Responsibility
 
-Since access to the Mailgun API key is required, only members of the @nodejs/build-infra team have the permission to push code to the `master` branch. That was done in order to minimize the possibility of mismatches between the information in this repo, and the actual email routes that are set up.
+Since access to the Mailgun API key is required, only members of the @nodejs/build-infra team have the permission to push code to the `main` branch. That was done in order to minimize the possibility of mismatches between the information in this repo, and the actual email routes that are set up.
 
 ### Procedure
 
