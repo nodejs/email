@@ -239,5 +239,11 @@
       "jacob@frende.me",
       "webadmin+zoom-nodejs@geoffreybooth.com"
     ]
+  },
+  {
+    "from": "nodejs-lfx-bounty",
+    "to": [
+      "midawson@redhat.com"
+    ]
   }
 ]
