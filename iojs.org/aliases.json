@@ -197,30 +197,6 @@
     ]
   },
   {
-    "from": "i18n",
-    "to": [
-      "dhruvjainpenny@gmail.com",
-      "obensource@benmichel.com",
-      "richard.littauer@gmail.com",
-      "zeke@sikelianos.com"
-    ]
-  },
-  {
-    "from": "node-slack-bot",
-    "to": [
-      "georgeadams1995@gmail.com"
-    ]
-  },
-  {
-    "from": "website-redesign",
-    "to": [
-      "adam@mobilize.app",
-      "dhruvjainpenny@gmail.com",
-      "hello@bnb.im",
-      "manil.chowdhury@gmail.com"
-    ]
-  },
-  {
     "from": "zoom-nodejs",
     "to": [
       "bencoe@google.com",
