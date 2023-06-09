@@ -158,7 +158,8 @@
     "from": "nodejs-crowdin",
     "to": [
       "obensource@benmichel.com",
-      "zeke@sikelianos.com"
+      "zeke@sikelianos.com",
+      "cwunder@gnome.org"
     ]
   },
   {
