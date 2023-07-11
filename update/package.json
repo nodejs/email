@@ -4,7 +4,8 @@
   "description": "",
   "main": "update.js",
   "scripts": {
-    "lint": "npx standard",
+    "lint": "standard .",
+    "lint:fix": "standard --fix .",
     "test": "npm run lint"
   },
   "author": "Rod <rod@vagg.org> (http://r.va.gg/)",
