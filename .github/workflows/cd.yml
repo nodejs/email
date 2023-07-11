@@ -24,6 +24,10 @@ jobs:
         run: npm ci
         working-directory: ${{ env.working-directory }}
   
+      - name: Linter
+        run: npm run lint
+        working-directory: ${{ env.working-directory }}
+
       - name: Apply changes
         run: node update.js iojs.org
         working-directory: ${{ env.working-directory }}
