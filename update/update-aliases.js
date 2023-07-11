@@ -29,6 +29,7 @@ function diff (domain, a1, a2) {
         a2.splice(i, 1) // remove it so we don't match duplicates
         return true
       }
+      return false
     })
   })
 }
