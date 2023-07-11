@@ -28,7 +28,14 @@ There are two GitHub Actions workflows that run automatically when targeting cha
 
 The [update](./update) directory contains a node program which will read the aliases mapping file, fetch the list of mail routes from Mailgun and update the routes to make sure they match the required state. The program is run by passing it a domain name as an argument (`update/update.js iojs.org`).
 
-The Mailgun API key for the given domain is required. It can be found in the `admin_logins.md` file in the secrets repo (build/infra/), or directly via the Rackspace API. The key should be used as environment variable `MAILGUN_API_KEY` when running the program.
+The Mailgun API key for the given domain is required. It can be found in the `admin_logins.md` file in the secrets repo (build/infra/), or directly via the Rackspace API. The key should be used as environment variable `MAILGUN_API_KEY` when running the program. 
+
+
+Optionally, you can create a `.env` file in the `update` directory with the following content:
+
+```
+MAILGUN_API_KEY=your-api-key
+```
 
 The programs can be used with `--dry-run` to verify the current status and what will be changed by an update.
 
