@@ -235,5 +235,12 @@
     "to": [
       "midawson@redhat.com"
     ]
-  }
+  },
+  {
+    "from": "nodejs-vercel",
+    "to": [
+      "claudio.santoro.wunder@gmail.com",
+      "brian.muenzenmeyer@gmail.com"
+    ]
+  },
 ]
