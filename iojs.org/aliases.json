@@ -45,7 +45,6 @@
   {
     "from": "admin",
     "to": [
-      "jbergstroem@iojs.org",
       "midawson@redhat.com",
       "reis@janeasystems.com",
       "rlau@redhat.com",
@@ -58,7 +57,6 @@
   {
     "from": "accounts",
     "to": [
-      "jbergstroem@iojs.org",
       "midawson@redhat.com",
       "reis@janeasystems.com",
       "rlau@redhat.com",
@@ -71,7 +69,6 @@
   {
     "from": "build",
     "to": [
-      "jbergstroem@iojs.org",
       "midawson@redhat.com",
       "reis@janeasystems.com",
       "rlau@redhat.com",
@@ -91,12 +88,6 @@
     "from": "rvagg",
     "to": [
       "r@va.gg"
-    ]
-  },
-  {
-    "from": "jbergstroem",
-    "to": [
-      "bugs@bergstroem.nu"
     ]
   },
   {
@@ -167,7 +158,6 @@
   {
     "from": "github-bot",
     "to": [
-      "bugs@bergstroem.nu",
       "fishrock123@rocketmail.com",
       "johphi@gmail.com",
       "joyeec9h3@gmail.com",
