@@ -91,12 +91,6 @@
     ]
   },
   {
-    "from": "jbergstroem",
-    "to": [
-      "bugs@bergstroem.nu"
-    ]
-  },
-  {
     "from": "ci-alert",
     "to": [
       "gibfahn@gmail.com",
@@ -164,7 +158,6 @@
   {
     "from": "github-bot",
     "to": [
-      "bugs@bergstroem.nu",
       "fishrock123@rocketmail.com",
       "johphi@gmail.com",
       "joyeec9h3@gmail.com",
