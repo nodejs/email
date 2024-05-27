@@ -49,6 +49,7 @@
       "reis@janeasystems.com",
       "rlau@redhat.com",
       "r@va.gg",
+      "stefan.stojanovic@janeasystems.com",
       "sxa@redhat.com",
       "targos@protonmail.com",
       "ulisesgascongonzalez@gmail.com"
@@ -61,6 +62,7 @@
       "reis@janeasystems.com",
       "rlau@redhat.com",
       "r@va.gg",
+      "stefan.stojanovic@janeasystems.com",
       "sxa@redhat.com",
       "targos@protonmail.com",
       "ulisesgascongonzalez@gmail.com"
@@ -73,6 +75,7 @@
       "reis@janeasystems.com",
       "rlau@redhat.com",
       "r@va.gg",
+      "stefan.stojanovic@janeasystems.com",
       "sxa@redhat.com",
       "targos@protonmail.com",
       "ulisesgascongonzalez@gmail.com"
@@ -81,7 +84,8 @@
   {
     "from": "ci",
     "to": [
-      "reis@janeasystems.com"
+      "reis@janeasystems.com",
+      "stefan.stojanovic@janeasystems.com"
     ]
   },
   {
@@ -98,6 +102,7 @@
       "johphi@gmail.com",
       "midawson@redhat.com",
       "reis@janeasystems.com",
+      "stefan.stojanovic@janeasystems.com",
       "r@va.gg"
     ]
   },
