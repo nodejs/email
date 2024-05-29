@@ -212,5 +212,11 @@
       "claudio.santoro.wunder@gmail.com",
       "brian.muenzenmeyer@gmail.com"
     ]
+  },
+  {
+    "from": "nodejs-pypi",
+    "to": [
+      "legendecas@gmail.com"
+    ]
   }
 ]
