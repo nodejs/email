@@ -70,6 +70,7 @@
     "from": "build",
     "to": [
       "midawson@redhat.com",
+      "moshe@atlow.co.il",
       "reis@janeasystems.com",
       "rlau@redhat.com",
       "r@va.gg",
