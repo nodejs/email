@@ -45,6 +45,13 @@
     ]
   },
   {
+    "from": "report-discord",
+    "to": [
+      "claudio.santoro.wunder@gmail.com",
+      "vcarl@reactiflux.com"
+    ]
+  },
+  {
     "from": "admin",
     "to": [
       "midawson@redhat.com",
