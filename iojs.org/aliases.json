@@ -39,7 +39,8 @@
       "rtrott@gmail.com",
       "brian.muenzenmeyer@gmail.com",
       "ulisesgascongonzalez@gmail.com",
-      "chemi@atlow.co.il"
+      "chemi@atlow.co.il",
+      "work@rafaelgss.dev",
     ]
   },
   {
@@ -142,21 +143,24 @@
     "from": "cve-request",
     "to": [
       "midawson@redhat.com",
-      "vladimir@sqreen.io"
+      "vladimir@sqreen.io",
+      "work@rafaelgss.dev"
     ]
   },
   {
     "from": "cve-mitre-contact",
     "to": [
       "midawson@redhat.com",
-      "vladimir@sqreen.io"
+      "vladimir@sqreen.io",
+      "work@rafaelgss.dev"
     ]
   },
   {
     "from": "cna-discussion-list",
     "to": [
       "midawson@redhat.com",
-      "vladimir@sqreen.io"
+      "vladimir@sqreen.io",
+      "work@rafaelgss.dev"
     ]
   },
   {
