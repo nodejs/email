@@ -141,6 +141,7 @@
   {
     "from": "cve-request",
     "to": [
+      "marcoippolito54@gmail.com",
       "midawson@redhat.com",
       "vladimir@sqreen.io"
     ]
@@ -148,6 +149,7 @@
   {
     "from": "cve-mitre-contact",
     "to": [
+      "marcoippolito54@gmail.com",
       "midawson@redhat.com",
       "vladimir@sqreen.io"
     ]
@@ -155,6 +157,7 @@
   {
     "from": "cna-discussion-list",
     "to": [
+      "marcoippolito54@gmail.com",
       "midawson@redhat.com",
       "vladimir@sqreen.io"
     ]
