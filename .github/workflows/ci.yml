@@ -1,0 +1,35 @@
+on:
+    pull_request:
+      branches:
+      - main 
+
+name: Source Code Health
+
+permissions:
+    contents: read
+
+jobs:
+    build:
+      runs-on: ubuntu-latest
+      env:
+        working-directory: ./update
+      steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18.16.1'
+          cache: 'npm'
+  
+      - name: Install dependencies
+        run: npm ci
+        working-directory: ${{ env.working-directory }}
+
+      - name: Linter
+        run: npm run lint
+        working-directory: ${{ env.working-directory }}
+
+      - name: Check changes
+        run: node update.js iojs.org --dry-run
+        working-directory: ${{ env.working-directory }}
+        env:
+            MAILGUN_API_KEY: ${{ secrets.MAILGUN_API_KEY }}
