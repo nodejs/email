@@ -46,7 +46,6 @@
   {
     "from": "report-discord",
     "to": [
-      "claudio.santoro.wunder@gmail.com",
       "vcarl@reactiflux.com",
       "nicholainissen@gmail.com",
       "subone@subone.org"
@@ -129,7 +128,6 @@
     "from": "moderation",
     "to": [
       "benjamingr@gmail.com",
-      "claudio.santoro.wunder@gmail.com",
       "duhamelantoine1995@gmail.com",
       "huyuumi.dev@gmail.com",
       "othiym23@gmail.com",
