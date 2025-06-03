@@ -193,6 +193,13 @@
     ]
   },
   {
+    "from": "wiby-bot",
+    "to": [
+      "hello+wibybot@dominykas.com",
+      "midawson@redhat.com",
+    ]
+  },
+  {
     "from": "zoom-nodejs",
     "to": [
       "bencoe@google.com",
