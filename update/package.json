@@ -9,10 +9,15 @@
   },
   "author": "Rod <rod@vagg.org> (http://r.va.gg/)",
   "license": "MIT",
+  "engineStrict": true,
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "after": "^0.8.2",
     "bl": "^4.0.0",
     "deep-equal": "^2.0.1",
+    "dotenv": "16.3.1",
     "hyperquest": "^2.1.3",
     "jsonist": "^3.0.1",
     "xtend": "^4.0.2"
