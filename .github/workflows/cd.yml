@@ -1,0 +1,35 @@
+on:
+    push:
+      branches:
+      - main 
+
+name: Update Mailgun
+
+permissions:
+    contents: read
+
+jobs:
+    build:
+      runs-on: ubuntu-latest
+      env:
+        working-directory: ./update
+      steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18.16.1'
+          cache: 'npm'
+  
+      - name: Install dependencies
+        run: npm ci
+        working-directory: ${{ env.working-directory }}
+  
+      - name: Linter
+        run: npm run lint
+        working-directory: ${{ env.working-directory }}
+
+      - name: Apply changes
+        run: node update.js iojs.org
+        working-directory: ${{ env.working-directory }}
+        env:
+            MAILGUN_API_KEY: ${{ secrets.MAILGUN_API_KEY }}
