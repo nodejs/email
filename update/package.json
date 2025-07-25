@@ -9,6 +9,10 @@
   },
   "author": "Rod <rod@vagg.org> (http://r.va.gg/)",
   "license": "MIT",
+  "engineStrict": true,
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "after": "^0.8.2",
     "bl": "^4.0.0",

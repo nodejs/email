@@ -4,7 +4,7 @@ const qs = require('querystring')
 
 const url = 'https://api.mailgun.net/v3/routes'
 
-function addRoute (domain, creds, description, expression, actions, callback) {
+function addRoute (domain, description, expression, actions, callback) {
   const params = {
     description,
     expression,
@@ -12,7 +12,7 @@ function addRoute (domain, creds, description, expression, actions, callback) {
   }
   const data = qs.stringify(params)
   const options = {
-    auth: `api:${creds['api-key']}`,
+    auth: `api:${process.env.MAILGUN_API_KEY}`,
     headers: {
       'content-type': 'application/x-www-form-urlencoded',
       'content-length': Buffer.byteLength(data)
