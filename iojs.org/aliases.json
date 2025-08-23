@@ -239,7 +239,9 @@
     "from": "nodejs-vercel",
     "to": [
       "claudio.santoro.wunder@gmail.com",
-      "brian.muenzenmeyer@gmail.com"
+      "brian.muenzenmeyer@gmail.com",
+      "nodejs@flakey5.dev",
+      "me@mattcowley.co.uk"
     ]
   },
   {
