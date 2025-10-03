@@ -53,7 +53,6 @@
   {
     "from": "admin",
     "to": [
-      "midawson@redhat.com",
       "reis@janeasystems.com",
       "richard.lau@ibm.com",
       "r@va.gg",
@@ -66,7 +65,6 @@
   {
     "from": "accounts",
     "to": [
-      "midawson@redhat.com",
       "reis@janeasystems.com",
       "richard.lau@ibm.com",
       "r@va.gg",
@@ -79,7 +77,6 @@
   {
     "from": "build",
     "to": [
-      "midawson@redhat.com",
       "moshe@atlow.co.il",
       "reis@janeasystems.com",
       "richard.lau@ibm.com",
@@ -110,7 +107,6 @@
       "gibfahn@gmail.com",
       "hans@starefossen.com",
       "johphi@gmail.com",
-      "midawson@redhat.com",
       "reis@janeasystems.com",
       "stefan.stojanovic@janeasystems.com",
       "r@va.gg"
@@ -119,7 +115,6 @@
   {
     "from": "release-validation-alert",
     "to": [
-      "midawson@redhat.com",
       "richard.lau@ibm.com"
     ]
   },
@@ -139,7 +134,6 @@
     "from": "cve-request",
     "to": [
       "marcoippolito54@gmail.com",
-      "midawson@redhat.com",
       "vladimir@sqreen.io",
       "work@rafaelgss.dev"
     ]
@@ -148,7 +142,6 @@
     "from": "cve-mitre-contact",
     "to": [
       "marcoippolito54@gmail.com",
-      "midawson@redhat.com",
       "vladimir@sqreen.io",
       "work@rafaelgss.dev"
     ]
@@ -157,7 +150,6 @@
     "from": "cna-discussion-list",
     "to": [
       "marcoippolito54@gmail.com",
-      "midawson@redhat.com",
       "vladimir@sqreen.io",
       "work@rafaelgss.dev"
     ]
@@ -191,7 +183,6 @@
     "from": "wiby-bot",
     "to": [
       "hello+wibybot@dominykas.com",
-      "midawson@redhat.com"
     ]
   },
   {
@@ -199,7 +190,6 @@
     "to": [
       "bencoe@google.com",
       "bwarner@linuxfoundation.org",
-      "midawson@redhat.com",
       "gpunathi@in.ibm.com",
       "bethanyngriggs@gmail.com",
       "gabrielschulhof@gmail.com",
