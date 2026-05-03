@@ -51,7 +51,7 @@ set one up:
 
 ## License & copyright
 
-The contents of this repository are Copyright (c) Node.js Foundation and
+The contents of this repository are Copyright (c) OpenJS Foundation and
 licensed under the MIT licence. All rights not explicitly granted in the MIT
 license are reserved. See the included [`LICENSE.md`](./LICENSE.md) file for
 more details.
