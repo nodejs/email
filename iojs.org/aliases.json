@@ -251,5 +251,12 @@
       "matteo.collina@gmail.com",
       "ronagy@icloud.com"
     ]
+  },
+  {
+    "from": "gsoc-mentors",
+    "to": [
+      "me@aviv.sh",
+      "arrowood.dev"
+    ],
   }
 ]
