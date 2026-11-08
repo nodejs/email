@@ -52,6 +52,14 @@
     ]
   },
   {
+    "from": "admin-discord",
+    "to": [
+      "claudio.santoro.wunder@gmail.com",
+      "brian.muenzenmeyer@gmail.com",
+      "me@mattcowley.co.uk"
+    ]
+  },
+  {
     "from": "admin",
     "to": [
       "reis@janeasystems.com",
