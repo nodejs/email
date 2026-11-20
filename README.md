@@ -45,9 +45,9 @@ will be changed by an update.
 set one up:
 
 - Create an iojs.org alias with associated recipients as described above.
-- Send an email to <helpdesk@rt.linuxfoundation.org> requesting that the wanted
-  nodejs.org address by directed to the new alias. Please CC an OpenJS
-  Foundation contact person and provide context as to why the alias is needed.
+- Contact [Linux Foundation IT for support](https://github.com/openjs-foundation/cross-project-council/blob/main/project-resources/requesting_LFIT_support.md)
+  requesting that the wanted nodejs.org address be directed to the new alias,
+  with context explaining why the alias is needed.
 
 ## License & copyright
 
